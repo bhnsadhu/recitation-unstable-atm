@@ -1,0 +1,12 @@
+1. Your test suite properly identified the correct solution!
+
+2. Your test suite properly identified an incorrect solution!
+
+3. Your test suite properly identified an incorrect solution!
+
+4. Your test suite properly identified an incorrect solution!
+
+5. Your test suite properly identified an incorrect solution!
+
+score: 5/5
+Your test suite identified all bugs present!
