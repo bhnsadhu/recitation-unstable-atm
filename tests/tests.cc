@@ -177,4 +177,7 @@ TEST_CASE("PrintLedger prints expected ledger content", "[ledger]") {
 
   atm.PrintLedger("./prompt.txt", 12345678, 1234);
   REQUIRE(CompareFiles("./ex-1.txt", "./prompt.txt"));
+
+  // trigger workflow
+  
 }
